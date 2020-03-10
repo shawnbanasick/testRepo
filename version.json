@@ -1,0 +1,8 @@
+{
+    "version": "2.0.1",
+    "changes": [
+        "Japanese translation added",
+        "Update modal added",
+        "Various GUI improvements and code optimizations"
+    ]
+}
