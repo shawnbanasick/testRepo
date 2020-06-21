@@ -1,9 +1,8 @@
 {
-    "version": "1.2.1",
+    "version": "1.2.0",
     "changes": [
         "Japanese translation added",
         "Update modal added",
-        "Various GUI improvements and code optimizations",
-        "and another thing"
+        "Various GUI improvements and code optimizations"
     ]
 }
