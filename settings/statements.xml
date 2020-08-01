@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 
+// 
+// This is the place for your statements. The maximum 
+// number of statements is theoretically unlimited, but
+// less then 50 statements are advisable.
+// If your are using German Umlauts and other special 
+// characters, make sure, that you save this XML-file 
+// as an UTF-8-document. White-space inbetween the 
+// nodes are ignored. Any white-space within the text-
+// nodes, including leading or trailing whitespace and 
+// line breaks, is preserved.
+//
+// EXAMPLE
+// Let's define some statements concerning FlashQ:
+// Statement 1: FlashQ is very usefull.
+// Statement 2: I prefer offline surveys.
+// Statement 3: FlashQ is too complicated to configure.
+//
+// Each statement requires a seperate statement-node 
+// consisting out of an opening and a closing tag. The 
+// statement itself goes between this two tags. 
+// The unique statement id is saved as an 
+// attribute called 'id'. We have three exmaple 
+// statements and we need therefore three statement-
+// nodes and one parent-node. 
+//
+// <statements version="1.0" htmlparse="false">
+//   <statement id="1">FlashQ is very usefull.</statement>
+//   <statement id="2">I prefer offline surveys.</statement>
+//   <statement id="3">FlashQ is too complicated to configure</statement>
+// </statements>
+// 
+// ===================================================
+// 
+-->
+
+<statements version="1.0" htmlParse="false">
+  <statement id="1">I am familiar with the song, but it is not my favorite.</statement>
+  <statement id="2">I know I have heard this song, but do not know where.</statement>
+  <statement id="3">I love this song, I know every word!</statement>
+  <statement id="4">I used to like this song, but it was way too overplayed.</statement>
+  <statement id="5">I cannot stand this song.</statement>
+  <statement id="6">I like this song because it is simple and tells a story.</statement>
+  <statement id="7">This song triggers me in a bad way.</statement>
+  <statement id="8">This some is different from modern pop.</statement>
+  <statement id="9">This is just a dance song.</statement>
+  <statement id="10">The song is catchy and the beat is infectious.</statement>
+  <statement id="11">I do not like the lyrics.</statement>
+  <statement id="12"> I cannot understand most of the words.</statement>
+  <statement id="13">I do not know what this song is about.</statement>
+  <statement id="14">This song is about nothing in particular.</statement>
+  <statement id="15">This song is about school shooting.</statement>
+  <statement id="16">This song is about high school and that odd time in our life.</statement>
+  <statement id="17">This songs reminds me of that time period when it came out.</statement>
+  <statement id="18">This song is about sneakers.</statement>
+  <statement id="19">This song is threatening.</statement>
+  <statement id="20">This song is a cautionary tale.</statement>
+  <statement id="21">I tune the lyrics out and listen to the music around it.</statement>
+  <statement id="22">This song makes me feel sad.</statement>
+  <statement id="23">I have no feelings about this song.</statement>
+  <statement id="24">This song makes feel anxiety/fear.</statement>
+  <statement id="25">This song makes me feel angry/disgust.</statement>
+  <statement id="26">This song makes me happy.</statement>
+  <statement id="27">I am not sure who the band is.</statement>
+  <statement id="28">I am indifferent towards the band.</statement>
+  <statement id="29">I like the song but not the band.</statement>
+  <statement id="30">I like this genre of music but not the band.</statement>
+  <statement id="31">I’ve seen the band in concert.</statement>
+  <statement id="32">This one of my favorite bands.</statement>
+  <statement id="33">Lyrics were dark but surrounded with a happy sound.</statement>
+  <statement id="34">I like the lyrics more than I should have.</statement>
+  <statement id="35">I like how the lyrics tell a story.</statement>
+  <statement id="36">Lyrics creep me out.</statement>
+  <statement id="37">The beat is fun; I find myself tapping my foot.</statement>
+  <statement id="38">I didn’t pay attention to the meaning.</statement>
+  <statement id="39">The song probably has a deeper meaning than what I think it is.</statement>
+  <statement id="40">The singer is jealous of the better things the other kids in school have.</statement>
+  <statement id="41">The singer may be psychotic and is using the song as a cry for help.</statement>
+  <statement id="42">High school isn’t a safe place nowadays.</statement>
+  <statement id="43">It’s relatable because lots of people want what others have.</statement>
+  <statement id="44">I like the song because there is a need to spread awareness about school shootings.</statement>
+  <statement id="45">I relate to the song being I was an antisocial kid.</statement>
+  <statement id="46">I don’t see how anyone could find this song relatable.</statement>
+  <statement id="47">I think people are oblivious to the song’s meaning and what the singer is intending to do.</statement>
+  <statement id="48">The message is interesting, but I cannot relate to it.</statement>
+  <statement id="49">How someone can seem happy and upbeat like the song, however hide a dark side like the lyrics do.</statement>
+  <statement id="50">This song promotes violence.</statement>
+ </statements>
